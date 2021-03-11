@@ -1,0 +1,12 @@
+Testing Methodology
+	Batches are Weighed Dry; Then mixed
+		CGOLDENWALL Precision Lab Scale (5 kg capacity, 0.01 g accuracy)
+		Repeated measurements are withing 0.03 g of eachother.
+	Water is added and further mixing is performed
+		Excess water is prone to causing density separation of large soapstone grains.
+		Soapstone powder is preferable to large grains (> 1 mm)
+
+Experimental Results
+	
+	
+
